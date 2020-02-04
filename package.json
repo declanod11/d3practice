@@ -1,0 +1,19 @@
+{
+  "name": "d3-practice",
+  "version": "1.0.0",
+  "description": "project for practicing d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/declanod11/d3practice.git"
+  },
+  "author": "Declan O'Donovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/declanod11/d3practice/issues"
+  },
+  "homepage": "https://github.com/declanod11/d3practice#readme"
+}

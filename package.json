@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/declanod11/d3practice/issues"
   },
-  "homepage": "https://github.com/declanod11/d3practice#readme"
+  "homepage": "https://github.com/declanod11/d3practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
